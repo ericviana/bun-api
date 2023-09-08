@@ -9,7 +9,13 @@
     "elysia": "latest"
   },
   "devDependencies": {
+    "@typescript-eslint/eslint-plugin": "^6.4.0",
     "bun-types": "latest",
+    "eslint": "^8.48.0",
+    "eslint-config-standard-with-typescript": "^39.0.0",
+    "eslint-plugin-import": "^2.25.2",
+    "eslint-plugin-n": "^15.0.0 || ^16.0.0 ",
+    "eslint-plugin-promise": "^6.0.0",
     "typescript": "^5.2.2"
   },
   "module": "src/index.js"
